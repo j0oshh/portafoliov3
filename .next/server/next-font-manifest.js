@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/josh/portafolio/port-completo/src/app/layout\":[\"static/media/bb3ef058b751a6ad-s.p.woff2\",\"static/media/b7bd7951037de757-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
